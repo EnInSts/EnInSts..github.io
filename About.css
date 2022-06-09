@@ -25,7 +25,7 @@
 .u-section-1 .u-image-1 {
   width: 240px;
   height: 240px;
-  background-image: url("/images/5d39288e4510c8832d3c5c222c2df4308d022d623d9898b92669334e1d1aecd9797a10278422ed6346a21d39858fa7ae7f06b0d5ffb810ed3d52b7_1280.jpg");
+  background-image: url("images/5d39288e4510c8832d3c5c222c2df4308d022d623d9898b92669334e1d1aecd9797a10278422ed6346a21d39858fa7ae7f06b0d5ffb810ed3d52b7_1280.jpg");
   background-position: 50% 50%;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
   margin: 0 auto 0 0;
@@ -64,7 +64,7 @@
 .u-section-1 .u-image-2 {
   width: 240px;
   height: 240px;
-  background-image: url("/images/fdd69d98438b7800816041fec0575ecb3c07230c9a3465319b0d217c66facdfa236a14b3c2a666f0440f0503a8a23efc7312cf110639ea094ba777_1280.jpg");
+  background-image: url("images/fdd69d98438b7800816041fec0575ecb3c07230c9a3465319b0d217c66facdfa236a14b3c2a666f0440f0503a8a23efc7312cf110639ea094ba777_1280.jpg");
   background-position: 50% 50%;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
   margin: 20px 22px 0 auto;
@@ -467,7 +467,7 @@
 .u-section-3 .u-image-1 {
   width: 300px;
   height: 300px;
-  background-image: url("/images/1626079407168.jpeg");
+  background-image: url("images/1626079407168.jpeg");
   background-position: 50% 50%;
   margin: 0 auto;
 }
